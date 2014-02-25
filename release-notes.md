@@ -2,7 +2,13 @@
 
 ## Development
 
-[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.2...master)
+[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.3...master)
+
+## v0.0.3 - February 25th, 2014
+
+- allow for nested files - b871536
+
+[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.2...v0.0.3)
 
 ## v0.0.2 - February 4th, 2014
 
