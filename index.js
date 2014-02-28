@@ -4,7 +4,6 @@ module.exports = function(options, Sass) {
 
   return {
     css: {
-      glob: ['**/**/*.scss', '**/**/*.sass'],
       beforeMerge: function(_options, pipeline) {
         return pipeline.pipe(Sass(options));
       }
