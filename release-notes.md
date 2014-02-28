@@ -2,7 +2,13 @@
 
 ## Development
 
-[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.3...master)
+[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.4...master)
+
+## v0.0.4 - February 27th, 2014
+
+- remove glob reference - 92b7d7a
+
+[Commits](https://github.com/jhudson8/gwm-sass/compare/v0.0.3...v0.0.4)
 
 ## v0.0.3 - February 25th, 2014
 
